@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetUtilities", "SpreadsheetUtilities\SpreadsheetUtilities.csproj", "{26B55741-5848-430E-9935-90C05F3C513D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaTester", "FormulaTester\FormulaTester.csproj", "{C86C0312-7E3A-4B04-A19E-B0AFC0A0917A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B55741-5848-430E-9935-90C05F3C513D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B55741-5848-430E-9935-90C05F3C513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B55741-5848-430E-9935-90C05F3C513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B55741-5848-430E-9935-90C05F3C513D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86C0312-7E3A-4B04-A19E-B0AFC0A0917A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86C0312-7E3A-4B04-A19E-B0AFC0A0917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86C0312-7E3A-4B04-A19E-B0AFC0A0917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86C0312-7E3A-4B04-A19E-B0AFC0A0917A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
